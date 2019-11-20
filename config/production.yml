@@ -1,3 +1,6 @@
+server:
+  origin: http://example.com
+
 db:
   synchronize: false
   
